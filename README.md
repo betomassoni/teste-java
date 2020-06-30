@@ -7,6 +7,7 @@ Código fonte e artefatos para configuração e execução do teste de um backen
 Para executar o projeto, será necessário seguir os seguintes passos:
 
 1 - Criar um banco de dados importanto o arquivo "banco.sql";
+
 2 - Abrir o NetBeans, criar a biblioteca chamada "vraptor", adicionar todos os jars disponíveis na pasta **/libs/VRaptor 4.2.0.zip** e adicionar à Bibliotecas do projeto;
 3 - Criar a biblioteca chamada "hibernate", adicionar todos os jars disponíveis na pasta **/libs/Hibernate 3.6.10.zip** e adicionar à Bibliotecas do projeto;
 4 - Adicionar o jar **mysql-connector-java-5.1.23-bin.jar** à Bibliotecas do projeto;
